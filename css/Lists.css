@@ -1,0 +1,15 @@
+body{
+	background-color: lightgreen;
+}
+p{
+	background-color: lightseagreen;
+	color: green;
+	font-size: 50px;
+}
+ul,ol{
+	color: green;
+	font-size: 34px;
+}
+.l1 li{
+	padding-left: 20px;
+}
